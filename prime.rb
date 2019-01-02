@@ -1,5 +1,5 @@
 # Add  code here!
-def prime?(number)
+def prime?(int)
   if n == 1 
   return false
 end
