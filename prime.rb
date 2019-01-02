@@ -1,6 +1,6 @@
 # Add  code here!
-def prime?(int)
-  if n == 1 
+def prime?(number)
+  if number == 1 
   return false
 end
 end
